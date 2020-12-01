@@ -19,6 +19,6 @@ This application is made using Javascript, HTML and CSS. CSS is used to style th
 
 The live link of the application is provided below.
 
-https://ashwini-rathod.github.io/Persistent-To-Do-List/
+https://ashwini-rathod.github.io/Persistent-To-Do-List/index.html
 
 
